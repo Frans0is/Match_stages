@@ -13,7 +13,7 @@ Cette liste est lue par le programme, traitée,puis actualisée, et ainsi de sui
 
 À chaque tour le programme se préoccupe uniquement des lieux de stages pour lesquels une préférence de valeur 1 à été attribuée.
 Si un seul joueur a affecté une préférence 1 a un lieu, ce lieu lui est attribué.
-Si plusieurs joueurs ont affcté une préférence 1 a un même lieu, un tirage au sort est organisé entre eux, et entre eux seulement.
+Si plusieurs joueurs ont affecté une préférence 1 a un même lieu, un tirage au sort est organisé entre eux, et entre eux seulement.
 Tous les lieux affectés d'une préférence 1 par au moins un joueur sont donc attribués et les joueurs ayant reçus un lieu de stage sortent du jeu.
 Le jeu continue pour les autres : toutes leurs préférences concernant des lieux déjà attribuées sont amenées à 0, 
 toutes leurs autres préférences non nulles sont abaissées de 1. Ainsi, un nouveau tour d'attribution peut avoir lieu, et ainsi de suite, jusqu'à

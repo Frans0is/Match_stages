@@ -20,6 +20,5 @@ toutes leurs autres préférences non nulles sont abaissées de 1. Ainsi, un nou
 ce que chaque joueur se soit vu attribuer un lieu de stage.
 
 
-Le programme generate est un autre programme python utilisé pour créer des listes aléatoires de préférences, de noms et prénoms ainsi que de ville, 
-puis de créer un fichier preference.txt de démonstration. 
+Dans un esprit de transparence, le programme generate est aussi disponible. Il s'agit d'un autre programme python utilisé pour créer des listes aléatoires de préférences, de noms et prénoms ainsi que de ville, puis de créer un fichier preference.txt de démonstration. 
 Cela a servi à tester le programme match, mais peut aussi servir à illustrer son fonctionnement, afin que chacun le comprennne en détail s'il le souhaite.

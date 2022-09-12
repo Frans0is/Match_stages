@@ -23,10 +23,12 @@ Le principal avantage de cet algorithme est de maximiser le nombre de joueurs se
 
 On à la tableau des préférences qui suit.
 
-Institut  Monod Pasteur Curie
-Alice     1     2       3     
-Bob       2     1       3
-Carol     1     2       3
+|Institut|Monod|Pasteur|Curie|
+|---|---|---|---|---|
+| Alice  | 1  |  2 |  3 |
+| Bob | 2  | 1  |  3 |
+|  Carol |  1 |  2|  3 |
+
 
 Un tirage au sort poduira six résultats possibles : ABC, ACB, BAC, BCA, CAB et CBA.
 Dans 2 de ces 6 résultats (ACB et CAB), Bob fait son choix après Alice et Carol, et se voit donc attribuer le stage à Curie.

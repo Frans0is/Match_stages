@@ -21,7 +21,7 @@ ce que chaque joueur se soit vu attribuer un lieu de stage.
 
 Le principal avantage de cet algorithme est de maximiser le nombre de joueurs se voyant attribuer leur premier choix, et d'éviter les situations qualifiées de sous-optimales. Voilà un exemple.
 
-On à la tableau des préférences qui suit.
+On a le tableau des préférences qui suit.
 
 |Institut|Monod|Pasteur|Curie|
 |---|:---:|:---:|:---:|

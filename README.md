@@ -24,7 +24,7 @@ Le principal avantage de cet algorithme est de maximiser le nombre de joueurs se
 On à la tableau des préférences qui suit.
 
 |Institut|Monod|Pasteur|Curie|
-|---|---|---|---|
+|---|:---:|:---:|:---:|
 | Alice  | 1  |  2 |  3 |
 | Bob | 2  | 1  |  3 |
 |  Carol |  1 |  2|  3 |
